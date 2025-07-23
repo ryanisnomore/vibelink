@@ -1,0 +1,49 @@
+{
+  "name": "vibelink",
+  "version": "1.0.0",
+  "description": "Advanced Lavalink wrapper with multi-platform support and enhanced features for Discord music bots",
+  "main": "src/index.js",
+  "types": "types/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint src/",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanisnomore/vibelink.git"
+  },
+  "keywords": [
+    "lavalink",
+    "lavasrc",
+    "discord.js",
+    "music",
+    "bot",
+    "wrapper",
+    "discord-music",
+    "audio",
+    "player"
+  ],
+  "author": "RY4N",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryanisnomore/vibelink/issues"
+  },
+  "homepage": "https://github.com/ryanisnomore/vibelink#readme",
+  "dependencies": {
+    "@discordjs/voice": "^0.16.0",
+    "discord.js": "^14.14.1",
+    "node-fetch": "^3.3.2",
+    "ws": "^8.13.0"
+  },
+  "peerDependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  },
+  "files": [
+    "src/**/*.js",
+    "types/**/*.d.ts"
+  ]
+}

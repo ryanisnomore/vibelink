@@ -1,0 +1,26 @@
+# Ignore all files by default
+*
+
+# Allow these files and directories
+!/src/**
+!/types/**
+!LICENSE.md
+!README.md
+!SECURITY.md
+!FEATURES.md
+!package.json
+!package-lock.json
+
+# Exclude these specifically
+.gitignore
+.npmignore
+.editorconfig
+.eslintrc
+.prettierrc
+tsconfig.json
+jest.config.js
+.github/
+test/
+examples/
+docs/
+coverage/
