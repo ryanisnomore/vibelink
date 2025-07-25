@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/vibelink?style=flat-square&logo=npm&color=red)](https://www.npmjs.com/package/vibelink)
 [![npm](https://img.shields.io/npm/dt/vibelink?style=flat-square&logo=npm)](https://www.npmjs.com/package/vibelink)
-[![GitHub](https://img.shields.io/github/license/ryanisnomore/vibelink?style=flat-square&logo=github)](https://github.com/ryanisnomore/vibelink/blob/main/LICENSE)
+[![GitHub](https://img.shields.io/github/license/ryanisnomore/vibelink?style=flat-square&logo=github)](https://github.com/ryanisnomore/vibelink/blob/main/LICNCE.md)
 [![GitHub stars](https://img.shields.io/github/stars/ryanisnomore/vibelink?style=flat-square&logo=github)](https://github.com/ryanisnomore/vibelink/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ryanisnomore/vibelink?style=flat-square&logo=github)](https://github.com/ryanisnomore/vibelink/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/ryanisnomore/vibelink?style=flat-square&logo=github)](https://github.com/ryanisnomore/vibelink/issues)
